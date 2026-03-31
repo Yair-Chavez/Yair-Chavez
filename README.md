@@ -1,31 +1,26 @@
-# ¡Hola! Soy Yair Odin Chávez 👋
+# Yair Odin Chávez Castro
+**Senior Data Analyst | Market Researcher**
 
-### Senior Data Analyst | Market Researcher | Especialista en Insight Estratégico
-
-Profesional con amplia trayectoria transformando datos complejos en conocimiento accionable. Mi enfoque combina el rigor de la investigación de mercados con técnicas avanzadas de Ciencia de Datos para guiar la toma de decisiones estratégicas.
-
----
-
-## 🛠️ Stack Tecnológico y Especialidades
-* **Lenguajes:** Python (Pandas, Scikit-learn, NumPy), SQL.
-* **Análisis de Datos:** Modelos Predictivos, Segmentación de Clientes, Análisis de Satisfacción.
-* **Visualización:** Tableau, Power BI, Matplotlib / Seaborn.
-* **Investigación de Mercados:** Diseño de muestras, depuración de bases de datos, análisis estadístico y storytelling ejecutivo.
-
-## 🎓 Formación y Certificaciones
-* **Massachusetts Institute of Technology (MIT):** Especialización Profesional en Data Science and Machine Learning.
-* **Market Research Expert:** Experiencia liderando el diseño y análisis de estudios cuantitativos.
-
-## 🚀 Proyectos Destacados
-* **[Satisfaction Predictor](tu-link-aqui):** Modelo de Machine Learning desarrollado durante la especialización del MIT para predecir la experiencia del usuario (Hackathon Team Project).
-* **[Optimización de Procesos Data-Driven](tu-link-aqui):** Implementación de flujos de trabajo eficientes para la depuración y análisis de grandes volúmenes de datos.
+Especialista en la transformación de datos complejos en conocimiento estratégico para la toma de decisiones. Experto en investigación de mercados, diseño estadístico y análisis predictivo con enfoque en resultados de negocio.
 
 ---
 
-## 📫 Conectemos
+## Perfil Profesional
+* **Especialización:** Data Science and Machine Learning - Massachusetts Institute of Technology (MIT).
+* **Stack Técnico:** Python, R, SQL, SPSS, SAS, VBA, Tableau, Power BI.
+* **Core Competencies:** Diseño de muestras, depuración de bases de datos, análisis multivariado y storytelling ejecutivo.
+
+---
+
+## Portafolio de Proyectos
+Accede a mi portafolio completo y demostraciones interactivas en el siguiente enlace:
+
+👉 **[Ver mi Portafolio Profesional](https://Yair-Chavez.github.io/)**
+
+---
+
+## Contacto
 * **Ubicación:** Ciudad de México (CDMX)
-* **LinkedIn:** www.linkedin.com/in/yair-chavez-actuary
-* **Objetivo:** Aplicar modelos analíticos avanzados para resolver retos de negocio complejos.
-
----
-*"Los datos solo son ruido hasta que les aplicas el método correcto."*
+* **LinkedIn:** [linkedin.com/in/yair-chavez-actuary](https://www.linkedin.com/in/yair-chavez-actuary)
+* **Email:** [Yair.Chavez.Castro@gmail.com](mailto:Yair.Chavez.Castro@gmail.com)
+* **WhatsApp:** [Enviar mensaje directo](https://wa.me/525520186345)
