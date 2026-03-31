@@ -24,7 +24,7 @@ Profesional con amplia trayectoria transformando datos complejos en conocimiento
 
 ## 📫 Conectemos
 * **Ubicación:** Ciudad de México (CDMX)
-* **LinkedIn:** [Tu link de LinkedIn aquí]
+* **LinkedIn:** www.linkedin.com/in/yair-chavez-actuary
 * **Objetivo:** Aplicar modelos analíticos avanzados para resolver retos de negocio complejos.
 
 ---
