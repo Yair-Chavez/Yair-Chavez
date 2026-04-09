@@ -15,7 +15,7 @@ Especialista en la transformación de datos complejos en conocimiento estratégi
 ## Portafolio de Proyectos
 Accede a mi portafolio completo y demostraciones interactivas en el siguiente enlace:
 
-👉 **[Ver mi Portafolio Profesional]([https://Yair-Chavez.github.io/](https://yair-chavez.github.io/Portafolio-Data-Science))**
+**[Ver mi Portafolio Profesional](https://yair-chavez.github.io/Portafolio-Data-Science/)**
 
 ---
 
